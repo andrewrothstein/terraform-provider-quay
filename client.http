@@ -1,0 +1,6 @@
+GET {{host}}/{{version}}/repository
+?namespace=honestbee
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
